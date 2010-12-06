@@ -4,8 +4,8 @@ The files for this project are organized as described by the tree below.
 The <ROOT_DIR> is the top-level directory resulting from the git checkout.
 
 <ROOT DIR>
+|_ README : The file you are currently reading.
 |_ docs : Directory containing general documentation.
-|  \_ README : The file you are currently reading.
 |_ ui : Directory containing files for all user interfaces.
 |  \_ website : Directory containing files for web site user interface.
 |     |_ src : Directory containing source code.
