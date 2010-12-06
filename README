@@ -1,0 +1,23 @@
+Directory structure
+-------------------
+The files for this project are organized as described by the tree below.
+The <ROOT_DIR> is the top-level directory resulting from the git checkout.
+
+<ROOT DIR>
+|_ docs : Directory containing general documentation.
+|  \_ README : The file you are currently reading.
+|_ html-ui : Directory containing files for HTML UI sub-project.
+|  |_ src : Directory containing source code.
+|  |_ conf : Directory containing configuration files.
+|  \_ docs : Directory containing documentation.
+|_ rest-api : Directory containing files for REST API sub-project.
+|  |_ src : Directory containing source code.
+|  |_ conf : Directory containing configuration files.
+|  \_ docs : Directory containing documentation.
+\_ sql-db : Directory containing files for SQL-based database sub-project.
+   |_ migrations : Directory containing DB migration.
+   |_ conf : Directory containing configuration files.
+   \_ docs : Directory containing documentation.
+
+Read the documentation in each of the sub-projects' docs directory for
+further information on how to work with each sub-project.
